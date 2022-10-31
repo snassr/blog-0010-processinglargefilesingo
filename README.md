@@ -6,7 +6,7 @@ Before running this program, ensure you unzip the itcont.txt.zip file to the dat
 ```bash
 # install p7zip as needed
 brew install p7zip
-# unzip folder using p7zip
+# unzip to folder using p7zip
 7z e data/itcont.txt.7z -odata/
 ```
 
